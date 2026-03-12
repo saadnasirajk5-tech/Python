@@ -12,7 +12,7 @@ def greet(name = "World"):
     return "Hello, <name>!"       
 print(greet(name="ALI"))
 
-
+print(greet(name="Ali"))
 
 
 
